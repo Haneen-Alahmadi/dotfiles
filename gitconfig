@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = haneen.s8.alahmadi@gmail.com
+	name = gh api user/emails | jq -r '.[].email'
