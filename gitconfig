@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = haneen.s8.alahmadi@gmail.com
-	name = gh api user/emails | jq -r '.[].email'
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = (Haneen Alahmadi) haneen.s8.alahmadi@gmail.com
