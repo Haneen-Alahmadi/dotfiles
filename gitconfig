@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = (Haneen Alahmadi) haneen.s8.alahmadi@gmail.com
+	email = haneen.s8.alahmadi@gmail.com
+	name = Haneen Alahmadi
